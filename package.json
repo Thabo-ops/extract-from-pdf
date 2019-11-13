@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "pdf.js-extract": "^0.1.3",
-    "word-extractor": "^0.3.0"
-  }
+    "word-extractor": "^0.3.0",
+    "node-livedocx": "0.0.5"
+  } 
 }
